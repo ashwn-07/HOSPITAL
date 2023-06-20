@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GMC Trivandrum",
+    "location": "Thriuvanamthapuram",
+    "patientCount": 1278
+  },
+  {
+    "name": "TD medical college",
+    "location": "Vandanam, Aleppey",
+    "patientCount": 1456
+  },
+  {
+    "name": "Vps Lakeshore",
+    "location": "Maradu, kochi",
+    "patientCount": 826
+  },
+  {
+    "name": "Aster medcity",
+    "location": "Chitoor, kochi",
+    "patientCount": 1156
+  },
+  {
+    "name": "Lissie Hospital",
+    "location": "kaloor, kochi",
+    "patientCount": 740
+  },
+  {
+    "name": "Amrita Hospital",
+    "location": "Kochi",
+    "patientCount": 626
+  }
+]

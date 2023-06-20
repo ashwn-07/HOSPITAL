@@ -1,0 +1,15 @@
+{
+  "name": "hospital",
+  "version": "1.0.0",
+  "description": "sample db manipulation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aswin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
